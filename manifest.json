@@ -1,0 +1,12 @@
+{
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "description": "Allows a user to interact with Wolfram Alpha through the Omnibox.",
+  "name": "Wolfram Alpha Extension",
+  "omnibox": { "keyword" : "wolfram" },
+  "permissions": [ "http://www.wolframalpha.com/" ],
+  "version": "1",
+
+  "manifest_version": 2
+}
